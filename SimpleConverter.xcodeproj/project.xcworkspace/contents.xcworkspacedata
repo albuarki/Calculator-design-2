@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Calculator design.xcodeproj">
+      location = "self:SimpleConverter.xcodeproj">
    </FileRef>
 </Workspace>
